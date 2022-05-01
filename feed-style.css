@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Oswald:wght@400;700&display=swap');
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.top-menu-icons div{
+    display: inline-block;
+
+}
+.logo a{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 53px;
+    font-weight: 400;
+    color: black;
+}
+.search input{
+    border-radius: 4px;
+    
+}
+
